@@ -9,6 +9,6 @@ modules = ["core.py"]
 
 doc_url = "https://vegabj.github.io/nbdev_test/"
 
-git_url = "https://github.com/vegabj/nbdev_test/tree/{branch}/"
+git_url = "https://github.com/vegabj/nbdev_test/tree/master/"
 
 def custom_doc_links(name): return None
