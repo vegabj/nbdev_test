@@ -1,12 +1,12 @@
 # nbdev_test
-> testing the nbdev setup.
+> testing out nbdev.
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_test`
 
 ## How to use
 
