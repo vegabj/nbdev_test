@@ -15,10 +15,3 @@ Empty package
 ```python
 1+1
 ```
-
-
-
-
-    2
-
-
