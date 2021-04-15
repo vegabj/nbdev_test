@@ -32,7 +32,7 @@ jobs:
       run: |
         if [ -n "$(nbdev_diff_nbs)" ]; then echo -e "!!! Detected difference between the notebooks and the library"; false; fi
     - name: Run tests
+      env:
+        test: ${{secrets.test_secret}}
       run: |
         nbdev_test_nbs
-      with:
-        test: ${{ secrets.test_secret }}
