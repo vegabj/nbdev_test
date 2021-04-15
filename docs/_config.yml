@@ -1,9 +1,9 @@
-repository: {user}/{lib_name}
+repository: vegabj/nbdev_test
 output: web
-topnav_title: {lib_name}
-site_title: {lib_name}
-company_name: equinor
-description: A description of your project
+topnav_title: nbdev_test
+site_title: nbdev_test
+company_name: vegard
+description: Testing out nbdev
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
