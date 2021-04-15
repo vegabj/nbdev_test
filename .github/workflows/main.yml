@@ -34,3 +34,5 @@ jobs:
     - name: Run tests
       run: |
         nbdev_test_nbs
+      with:
+        test: ${{ secrets.test_secret }}
